@@ -1,5 +1,9 @@
-pandas==1.5.3
-numpy==1.24.1
+python-3.11
+pandas>=2.1.0
+numpy>=1.26.0
+setuptools>=60.0.0  # Required for Python 3.12 compatibility
+scikit-learn
+streamlit
 matplotlib==3.7.1
 seaborn==0.12.2
 scikit-learn==1.6.1
