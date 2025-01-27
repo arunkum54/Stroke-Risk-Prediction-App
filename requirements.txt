@@ -1,13 +1,12 @@
-pandas>=2.1.0
-numpy>=1.26.0
-setuptools>=60.0.0  # Required for Python 3.12 compatibility
-scikit-learn
-streamlit
+numpy==1.26.4
+altair==4.2.0
+pandas==2.2.3
+scikit-learn==1.6.1
 matplotlib==3.7.1
 seaborn==0.12.2
-scikit-learn==1.6.1
 imbalanced-learn==0.12.4
 joblib==1.4.2
 flask==2.2.3
 streamlit==1.12.0
-setuptools>=65.0.0
+setuptools>=65.5.1  # Explicit 3.12-compatible version
+protobuf<4  # Needed for Streamlit compatibility
