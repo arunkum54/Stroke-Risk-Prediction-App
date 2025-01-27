@@ -1,3 +1,6 @@
+# I have deployed the solution, and can access it via the following link:
+ https://stroke-risk-prediction-app.streamlit.app/
+
 # Stroke Risk Prediction Application
 
 This repository contains two implementations of a stroke risk prediction model:
